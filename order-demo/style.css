@@ -1,0 +1,90 @@
+.btn {
+  width: 115px;
+  height: 35px;
+  font-size: 17px;
+  border-radius: 5px;
+  margin: 10px;
+  color: white;
+  background-color: rgb(183 60 88);
+  font-weight: bold;
+  border-color: rgb(183 60 88);
+}
+
+.btn:hover {
+  background-color: #913147;
+}
+
+.btn:active {
+  transform: scale(0.9);
+}
+
+#name,
+#menu,
+#menu2,
+#number {
+  border-radius: 10px;
+  height: 30px;
+  margin: auto 5px;
+  border-color: rgb(183 60 88);
+}
+
+.back {
+  background-color: #fffafa;
+}
+
+body {
+  background-color: #fffafa;
+}
+
+.paper {
+  background-color: #e6cfe6;
+  width: 250px;
+  border-radius: 10px;
+}
+
+.paperback {
+  display: flex;
+  justify-content: center;
+}
+
+hr {
+  width: 400px;
+}
+
+body {
+  margin: 0px;
+}
+
+.vipback {
+  color: white;
+  background-color: #b068b0;
+  padding: 0px 0px 0px 30px;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.menu-group,
+.namediv,
+.numberdiv {
+  display: block;
+}
+
+.page {
+  text-align: center;
+  padding-top: 20px;
+}
+
+select {
+  padding: 0px 36px;
+}
+
+#name {
+  width: 250px;
+}
+
+#number {
+  width: 250px;
+}
+
+.paper h3 {
+  padding: 0px 15px;
+}
